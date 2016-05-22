@@ -14,6 +14,7 @@ zh-TW translation of [Codecademy](http://www.codecademy.com/)'s [javascript cour
 1. Getting Started with Programming
    1. [1-1 你叫什麼名字](1-1_what-is-your-name.md)
    2. [1-2 找出你名字的長度](1-2_Discover-the-length.md)
+   3. [1-3 基礎數學運算](1-3_Basic-math.md)
 
 Disclaimer
 ----------
