@@ -8,8 +8,6 @@
 
 接著我們繼續學更多比較運算子吧。
 
-List of comparison operators:
-
 * `>` 大於
 * `<` 小於
 * `<=` 小於等於
