@@ -4,19 +4,18 @@
 
 1. 確認框與提示框
 
-我們可以呼叫彈跳視窗了！
-`confirm("I am ok");`
-`prompt("Are you ok?");`
-
+  我們可以呼叫彈跳視窗了！
+  
+  `confirm("I am ok");`
+  
+  `prompt("Are you ok?");`
 2. 資料型態
-
-* strings （如 `"dogs go woof!"`, `"JavaScript expert"`）
-* numbers （如 `4.3`, `134`）
-* booleans (如 `false`, `5 > 4`)
-
+  - strings （如 `"dogs go woof!"`, `"JavaScript expert"`）
+  - numbers （如 `4.3`, `134`）
+  - booleans (如 `false`, `5 > 4`)
 3. 條件式
 
-如果第一個條件成立，執行第一個程式碼區塊，如果不成立，執行 `else` 所引導的區塊。看看右邊一個新的範例程式碼。
+  如果第一個條件成立，執行第一個程式碼區塊，如果不成立，執行 `else` 所引導的區塊。看看右邊一個新的範例程式碼。
 
 說明
 --------
