@@ -1,6 +1,12 @@
-zh-TW translation of [Codecademy](http://www.codecademy.com/)'s javascript course
+zh-TW translation of [Codecademy](http://www.codecademy.com/)'s [javascript course](https://codecademy.com/learn/javascript)
 ===========================================================================
+
 翻譯
+----
+
+* [Denny Huang](https://github.com/denny0223)
+* [hazely8](https://github.com/hazely8)
+* [Allen Chou](https://github.com/s3131212)
 
 
 目錄
