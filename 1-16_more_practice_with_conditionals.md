@@ -6,17 +6,21 @@
 -----------
 
 1. 如同我們剛剛所做，寫一個 `if` / `else` 陳述句。下面是程式碼的雛形
-```
-if (condition) 
-{
-    // if condition is true
-    // do this code
-}
-else // "otherwise"
-{
-    // do this code instead
-}
-```
-2. 如果條件為真，使用 `console.log` 印出 "The condition is true" 。
-3. 否則（ `else` ）用 `console.log` 印出"The condition is false"。
-4. 確認當條件為假，你的程式才會印出 "The condition is false"。
+
+  ``` javascript
+  if (condition)
+  {
+      // if condition is true
+      // do this code
+  }
+  else // "otherwise"
+  {
+      // do this code instead
+  }
+  ```
+
+2. *如果*條件為 `true`，使用 `console.log` 印出 `"The condition is true"`。
+
+3. 否則（*else*）用 `console.log` 印出 `"The condition is false"`。
+
+4. 確認當條件為 `false`，你的程式才會印出 `"The condition is false"`。
