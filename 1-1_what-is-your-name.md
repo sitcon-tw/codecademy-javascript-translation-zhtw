@@ -6,4 +6,4 @@
 說明
 ----
 
-在雙引號內寫下你的名字，像是 "Denny" 。然後點擊 "Save & Submit Code"。
+在雙引號內寫下你的名字，像是 "Ryan" 。然後點擊 "Save & Submit Code"。
