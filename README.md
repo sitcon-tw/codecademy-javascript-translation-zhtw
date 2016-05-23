@@ -17,7 +17,7 @@ zh-TW translation of [Codecademy](http://www.codecademy.com/)'s [javascript cour
   3. [1-3 基礎數學運算](1-3_Basic-math.md)
   4. [1-4 Numbers and more](1-4_Numbers-and-more.md)
   5. [1-5 ](1-5_)
-  6. [1-6 ](1-6_)
+  6. [1-6 編輯器(Editor)和註解(comments)](1-6_Editor-and-comments.md)
   7. [1-7 ](1-7_)
   8. [1-8 ](1-8_)
   9. [1-9 ](1-9_)
