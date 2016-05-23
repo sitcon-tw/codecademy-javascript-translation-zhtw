@@ -4,7 +4,7 @@
 
 如果我們要做一個簡單的程式，用途是詢問你的名字是否超過七個字，如果有的話就回答 "You have a long name!" ，我們可以用下述的 `if` 陳述句：
 
-```
+``` javascript
 if( "myName".length >= 7 ) {
     console.log("You have a long name!");
 }
