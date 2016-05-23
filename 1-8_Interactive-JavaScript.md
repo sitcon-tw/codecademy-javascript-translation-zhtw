@@ -1,15 +1,15 @@
-互動式的javascript
+互動式的 JavaScript
 =================
 
-你剛剛看到的是個javascript如何與你互動的有趣例子
+你剛剛看到的是個 JavaScript 如何與你互動的有趣例子
 
 你自己試試看吧！
 
 例如：
 
-`confirm(“I fell awesome！”);`
+`confirm("I fell awesome!");`
 
-`confirm(“i am ready to go.”)`
+`confirm("I am ready to go.")`
 
 這個網站上的小視窗可以被用來提醒你再次確認某些事情
 
