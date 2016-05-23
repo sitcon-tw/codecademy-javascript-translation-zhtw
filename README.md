@@ -18,7 +18,7 @@ zh-TW translation of [Codecademy](http://www.codecademy.com/)'s [javascript cour
   4. [1-4 Numbers and more](1-4_Numbers-and-more.md)
   5. [1-5 ](1-5_)
   6. [1-6 編輯器(Editor)和註解(comments)](1-6_Editor-and-comments.md)
-  7. [1-7 ](1-7_)
+  7. [1-7 我在學什麼？](1-7_What-am-I-learning.md)
   8. [1-8 ](1-8_)
   9. [1-9 ](1-9_)
   10. [1-10 資料型態 I & II: 數字(Numbers) & 字串(Strings)](1-10_Data-Types-I-and-II-Numbers-and-Strings.md)
