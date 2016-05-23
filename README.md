@@ -7,6 +7,7 @@ zh-TW translation of [Codecademy](http://www.codecademy.com/)'s [javascript cour
 * [Denny Huang](https://github.com/denny0223)
 * [hazely8](https://github.com/hazely8)
 * [Allen Chou](https://github.com/s3131212)
+* [BobbyHo](https://github.com/bobby1030)
 
 
 目錄
